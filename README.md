@@ -11,3 +11,4 @@
 9- git branch
 10- git checkout master
 11- git merge rama-heroes
+12 git branch -d rama-heroes
